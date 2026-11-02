@@ -1,0 +1,381 @@
+.elementor-kit-3 {
+    --e-global-color-primary: #E8E8E8;
+    --e-global-color-secondary: #0D0D0D;
+    --e-global-color-text: #AFAFAF;
+    --e-global-color-accent: #E8E8E8;
+    --e-global-color-9f6bbfb: #F0330A;
+    --e-global-color-06a4809: #FF4D26;
+    --e-global-color-b6acd93: #111111;
+    --e-global-color-7f17a9b: #1E1E1E;
+    --e-global-color-b352942: #171717;
+    --e-global-color-8446873: #6B6B6B;
+    --e-global-color-a1194a6: #1F0B08;
+    --e-global-color-c150817: #02010100;
+    --e-global-color-b658c75: #0D0D0DA6;
+    --e-global-color-1af1a7a: #0A0A0A;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Inter";
+    --e-global-typography-text-font-size: 20px;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-text-line-height: 1.8em;
+    --e-global-typography-accent-font-family: "Inter";
+    --e-global-typography-accent-font-size: 15px;
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-abc699a-font-family: "Inter";
+    --e-global-typography-abc699a-font-size: 200px;
+    --e-global-typography-abc699a-font-weight: 700;
+    --e-global-typography-abc699a-line-height: 1em;
+    --e-global-typography-b67a8a1-font-family: "Inter";
+    --e-global-typography-b67a8a1-font-size: 120px;
+    --e-global-typography-b67a8a1-font-weight: 700;
+    --e-global-typography-b67a8a1-line-height: 1em;
+    --e-global-typography-9eb7f95-font-family: "Inter";
+    --e-global-typography-9eb7f95-font-size: 52px;
+    --e-global-typography-9eb7f95-font-weight: 700;
+    --e-global-typography-9eb7f95-line-height: 1.15em;
+    --e-global-typography-613dc63-font-family: "Inter";
+    --e-global-typography-613dc63-font-size: 28px;
+    --e-global-typography-613dc63-font-weight: 600;
+    --e-global-typography-613dc63-line-height: 1.3em;
+    --e-global-typography-17e0bf2-font-family: "Inter";
+    --e-global-typography-17e0bf2-font-size: 18px;
+    --e-global-typography-17e0bf2-font-weight: 600;
+    --e-global-typography-17e0bf2-line-height: 1.4em;
+    --e-global-typography-240c375-font-family: "Inter";
+    --e-global-typography-240c375-font-size: 16px;
+    --e-global-typography-240c375-font-weight: 600;
+    --e-global-typography-240c375-line-height: 1.4em;
+    --e-global-typography-762e880-font-family: "Inter";
+    --e-global-typography-762e880-font-size: 36px;
+    --e-global-typography-762e880-font-weight: 700;
+    --e-global-typography-762e880-line-height: 1.2em;
+    --e-global-typography-8f91b74-font-family: "Inter";
+    --e-global-typography-8f91b74-font-size: 16px;
+    --e-global-typography-8f91b74-font-weight: 400;
+    --e-global-typography-8f91b74-line-height: 1.6em;
+    --e-global-typography-4b018bb-font-family: "Inter";
+    --e-global-typography-4b018bb-font-size: 14px;
+    --e-global-typography-4b018bb-font-weight: 400;
+    --e-global-typography-4b018bb-line-height: 1.6em;
+    --e-global-typography-ab4049b-font-family: "Inter";
+    --e-global-typography-ab4049b-font-size: 16px;
+    --e-global-typography-ab4049b-font-weight: 400;
+    --e-global-typography-ab4049b-line-height: 1.8em;
+    --e-global-typography-120be81-font-family: "Inter";
+    --e-global-typography-120be81-font-size: 40px;
+    --e-global-typography-120be81-font-weight: 700;
+    --e-global-typography-120be81-line-height: 1.3em;
+    background-color: var(--e-global-color-secondary);
+    color: var(--e-global-color-text);
+    font-family: var(--e-global-typography-text-font-family), Sans-serif;
+    font-size: var(--e-global-typography-text-font-size);
+    font-weight: var(--e-global-typography-text-font-weight);
+    line-height: var(--e-global-typography-text-line-height);
+}
+
+.elementor-kit-3 button, .elementor-kit-3 input[type="button"], .elementor-kit-3 input[type="submit"], .elementor-kit-3 .elementor-button {
+    background-color: var(--e-global-color-b6acd93);
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-size: var(--e-global-typography-accent-font-size);
+    font-weight: var(--e-global-typography-accent-font-weight);
+    color: var(--e-global-color-accent);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-7f17a9b);
+    border-radius: 10px 10px 10px 10px;
+    padding: 17px 34px 17px 34px;
+}
+
+.elementor-kit-3 button:hover, .elementor-kit-3 button:focus, .elementor-kit-3 input[type="button"]:hover, .elementor-kit-3 input[type="button"]:focus, .elementor-kit-3 input[type="submit"]:hover, .elementor-kit-3 input[type="submit"]:focus, .elementor-kit-3 .elementor-button:hover, .elementor-kit-3 .elementor-button:focus {
+    background-color: var(--e-global-color-b352942);
+    color: var(--e-global-color-06a4809);
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var(--e-global-color-7f17a9b);
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-kit-3 e-page-transition {
+    background-color: #FFBC7D;
+}
+
+.elementor-kit-3 p {
+    margin-block-end: 0px;
+}
+
+.elementor-kit-3 a {
+    color: var(--e-global-color-06a4809);
+}
+
+.elementor-kit-3 a:hover {
+    color: var(--e-global-color-8446873);
+}
+
+.elementor-kit-3 h1 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-abc699a-font-family), Sans-serif;
+    font-size: var(--e-global-typography-abc699a-font-size);
+    font-weight: var(--e-global-typography-abc699a-font-weight);
+    line-height: var(--e-global-typography-abc699a-line-height);
+}
+
+.elementor-kit-3 h2 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-b67a8a1-font-family), Sans-serif;
+    font-size: var(--e-global-typography-b67a8a1-font-size);
+    font-weight: var(--e-global-typography-b67a8a1-font-weight);
+    line-height: var(--e-global-typography-b67a8a1-line-height);
+}
+
+.elementor-kit-3 h3 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-9eb7f95-font-family), Sans-serif;
+    font-size: var(--e-global-typography-9eb7f95-font-size);
+    font-weight: var(--e-global-typography-9eb7f95-font-weight);
+    line-height: var(--e-global-typography-9eb7f95-line-height);
+}
+
+.elementor-kit-3 h4 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-613dc63-font-family), Sans-serif;
+    font-size: var(--e-global-typography-613dc63-font-size);
+    font-weight: var(--e-global-typography-613dc63-font-weight);
+    line-height: var(--e-global-typography-613dc63-line-height);
+}
+
+.elementor-kit-3 h5 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-17e0bf2-font-family), Sans-serif;
+    font-size: var(--e-global-typography-17e0bf2-font-size);
+    font-weight: var(--e-global-typography-17e0bf2-font-weight);
+    line-height: var(--e-global-typography-17e0bf2-line-height);
+}
+
+.elementor-kit-3 h6 {
+    color: var(--e-global-color-primary);
+    font-family: var(--e-global-typography-240c375-font-family), Sans-serif;
+    font-size: var(--e-global-typography-240c375-font-size);
+    font-weight: var(--e-global-typography-240c375-font-weight);
+    line-height: var(--e-global-typography-240c375-line-height);
+}
+
+.elementor-kit-3 label {
+    color: var(--e-global-color-8446873);
+    font-family: var(--e-global-typography-4b018bb-font-family), Sans-serif;
+    font-size: var(--e-global-typography-4b018bb-font-size);
+    font-weight: var(--e-global-typography-4b018bb-font-weight);
+    line-height: var(--e-global-typography-4b018bb-line-height);
+}
+
+.elementor-kit-3 input:not([type="button"]):not([type="submit"]), .elementor-kit-3 textarea, .elementor-kit-3 .elementor-field-textual {
+    font-family: var(--e-global-typography-4b018bb-font-family), Sans-serif;
+    font-size: var(--e-global-typography-4b018bb-font-size);
+    font-weight: var(--e-global-typography-4b018bb-font-weight);
+    line-height: var(--e-global-typography-4b018bb-line-height);
+    color: var(--e-global-color-8446873);
+    accent-color: var(--e-global-color-secondary);
+    background-color: var(--e-global-color-secondary);
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: var(--e-global-color-7f17a9b);
+    border-radius: 0px 0px 0px 0px;
+    padding: 17px 0px 17px 0px;
+}
+
+.elementor-kit-3 input:focus:not([type="button"]):not([type="submit"]), .elementor-kit-3 textarea:focus, .elementor-kit-3 .elementor-field-textual:focus {
+    color: var(--e-global-color-primary);
+    accent-color: var(--e-global-color-secondary);
+    background-color: var(--e-global-color-secondary);
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1280px;
+}
+
+.e-con {
+    --container-max-width: 1280px;
+    --container-default-padding-top: 0px;
+    --container-default-padding-right: 0px;
+    --container-default-padding-bottom: 0px;
+    --container-default-padding-left: 0px;
+}
+
+.elementor-widget:not(:last-child) {
+    --kit-widget-spacing: 20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px 20px;
+    --widgets-spacing-row: 20px;
+    --widgets-spacing-column: 20px;
+}
+
+    {}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+.site-header .site-branding {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.site-header {
+    padding-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+.site-footer .site-branding {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+@media(max-width:1024px) {
+    .elementor-kit-3 {
+        --e-global-typography-text-font-size: 18px;
+        --e-global-typography-accent-font-size: 15px;
+        --e-global-typography-abc699a-font-size: 100px;
+        --e-global-typography-b67a8a1-font-size: 70px;
+        --e-global-typography-9eb7f95-font-size: 40px;
+        --e-global-typography-613dc63-font-size: 24px;
+        --e-global-typography-17e0bf2-font-size: 17px;
+        --e-global-typography-240c375-font-size: 15px;
+        --e-global-typography-762e880-font-size: 28px;
+        --e-global-typography-8f91b74-font-size: 15px;
+        --e-global-typography-4b018bb-font-size: 14px;
+        --e-global-typography-ab4049b-font-size: 14px;
+        --e-global-typography-120be81-font-size: 32px;
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 h1 {
+        font-size: var(--e-global-typography-abc699a-font-size);
+        line-height: var(--e-global-typography-abc699a-line-height);
+    }
+
+    .elementor-kit-3 h2 {
+        font-size: var(--e-global-typography-b67a8a1-font-size);
+        line-height: var(--e-global-typography-b67a8a1-line-height);
+    }
+
+    .elementor-kit-3 h3 {
+        font-size: var(--e-global-typography-9eb7f95-font-size);
+        line-height: var(--e-global-typography-9eb7f95-line-height);
+    }
+
+    .elementor-kit-3 h4 {
+        font-size: var(--e-global-typography-613dc63-font-size);
+        line-height: var(--e-global-typography-613dc63-line-height);
+    }
+
+    .elementor-kit-3 h5 {
+        font-size: var(--e-global-typography-17e0bf2-font-size);
+        line-height: var(--e-global-typography-17e0bf2-line-height);
+    }
+
+    .elementor-kit-3 h6 {
+        font-size: var(--e-global-typography-240c375-font-size);
+        line-height: var(--e-global-typography-240c375-line-height);
+    }
+
+    .elementor-kit-3 button, .elementor-kit-3 input[type="button"], .elementor-kit-3 input[type="submit"], .elementor-kit-3 .elementor-button {
+        font-size: var(--e-global-typography-accent-font-size);
+        padding: 15px 30px 15px 30px;
+    }
+
+    .elementor-kit-3 label {
+        font-size: var(--e-global-typography-4b018bb-font-size);
+        line-height: var(--e-global-typography-4b018bb-line-height);
+    }
+
+    .elementor-kit-3 input:not([type="button"]):not([type="submit"]), .elementor-kit-3 textarea, .elementor-kit-3 .elementor-field-textual {
+        font-size: var(--e-global-typography-4b018bb-font-size);
+        line-height: var(--e-global-typography-4b018bb-line-height);
+    }
+
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-kit-3 {
+        --e-global-typography-text-font-size: 16px;
+        --e-global-typography-accent-font-size: 14px;
+        --e-global-typography-abc699a-font-size: 85px;
+        --e-global-typography-b67a8a1-font-size: 40px;
+        --e-global-typography-9eb7f95-font-size: 30px;
+        --e-global-typography-613dc63-font-size: 20px;
+        --e-global-typography-17e0bf2-font-size: 16px;
+        --e-global-typography-240c375-font-size: 14px;
+        --e-global-typography-762e880-font-size: 24px;
+        --e-global-typography-8f91b74-font-size: 14px;
+        --e-global-typography-ab4049b-font-size: 14px;
+        --e-global-typography-120be81-font-size: 28px;
+        font-size: var(--e-global-typography-text-font-size);
+        line-height: var(--e-global-typography-text-line-height);
+    }
+
+    .elementor-kit-3 h1 {
+        font-size: var(--e-global-typography-abc699a-font-size);
+        line-height: var(--e-global-typography-abc699a-line-height);
+    }
+
+    .elementor-kit-3 h2 {
+        font-size: var(--e-global-typography-b67a8a1-font-size);
+        line-height: var(--e-global-typography-b67a8a1-line-height);
+    }
+
+    .elementor-kit-3 h3 {
+        font-size: var(--e-global-typography-9eb7f95-font-size);
+        line-height: var(--e-global-typography-9eb7f95-line-height);
+    }
+
+    .elementor-kit-3 h4 {
+        font-size: var(--e-global-typography-613dc63-font-size);
+        line-height: var(--e-global-typography-613dc63-line-height);
+    }
+
+    .elementor-kit-3 h5 {
+        font-size: var(--e-global-typography-17e0bf2-font-size);
+        line-height: var(--e-global-typography-17e0bf2-line-height);
+    }
+
+    .elementor-kit-3 h6 {
+        font-size: var(--e-global-typography-240c375-font-size);
+        line-height: var(--e-global-typography-240c375-line-height);
+    }
+
+    .elementor-kit-3 button, .elementor-kit-3 input[type="button"], .elementor-kit-3 input[type="submit"], .elementor-kit-3 .elementor-button {
+        font-size: var(--e-global-typography-accent-font-size);
+        padding: 13px 26px 13px 26px;
+    }
+
+    .elementor-kit-3 label {
+        font-size: var(--e-global-typography-4b018bb-font-size);
+        line-height: var(--e-global-typography-4b018bb-line-height);
+    }
+
+    .elementor-kit-3 input:not([type="button"]):not([type="submit"]), .elementor-kit-3 textarea, .elementor-kit-3 .elementor-field-textual {
+        font-size: var(--e-global-typography-4b018bb-font-size);
+        line-height: var(--e-global-typography-4b018bb-line-height);
+    }
+
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+
+    .e-con {
+        --container-max-width: 767px;
+    }
+}
